@@ -1,0 +1,1 @@
+"./source/WEIGHTS.obj" "./source/USER_UART.obj" "./source/USER_MATRIX.obj" "./source/USER_LCD.obj" "./source/USER_DIO.obj" "./source/USER_CNN.obj" "./source/MSP430_UCS.obj" "./source/MSP430_UART.obj" "./source/MSP430_TIMER.obj" "./source/MSP430_ADC.obj" "./source/LCD_FONTS.obj" "./source/DEV_LCD_HD66753.obj" "./main.obj" "../lnk_msp430f5438a.cmd" -l"libc.a" 

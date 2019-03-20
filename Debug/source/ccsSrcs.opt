@@ -1,0 +1,1 @@
+"../source/DEV_LCD_HD66753.c" "../source/LCD_FONTS.c" "../source/MSP430_TIMER.C" "../source/MSP430_UART.c" "../source/MSP430_UCS.c" "../source/USER_DIO.C" "../source/USER_LCD.C" "../source/USER_UART.c" 
